@@ -6,6 +6,8 @@ categories: [ Services ]
 tags: [ Startup ]
 image: assets/images/img_train_movement_1.jpg
 comments: false
+lang: en
+lang-ref: mvp-product-dev
 ---
 ### MVP Development
 Verify your business idea with a quality test version of your digital product. We help you designing the right product with the correct strategy and the appropriate technology.  
@@ -21,4 +23,4 @@ Whether you are ready to pivot your MVP, or you need a cus­tom solu­tion for y
 - Con­nect­ing depart­ments, inter­nal IT and third-party ser­vice providers
 
 
-{% include contact.html %}
+{% include contact_link.html %}

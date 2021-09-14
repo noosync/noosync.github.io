@@ -6,11 +6,20 @@ logo: 'assets/images/noosync_logo_v1.png'
 favicon: 'assets/images/noosync_logo_v1.png'
 #baseurl: /noosync
 #google_analytics: 'UA-xxxxxxxx-1'
-#disqus: 'demowebsite'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+#disqus: ''
+#mailchimp-list: 
 include: ["_pages"]
-permalink: /:title/
+permalink: /:path/:title/
 email: hello@noosync.com
+
+#Languages
+languages:
+  en:
+    label: English
+    icon: 🇺🇸
+  pt-BR:
+    label: Português
+    icon: 🇧🇷
 
 # Authors
 authors:
@@ -23,7 +32,7 @@ authors:
     twitter: ""
     description: ""
 
-    # Plugins
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

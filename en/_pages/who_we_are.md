@@ -1,13 +1,15 @@
 ---
 layout: page
 title: Who we are
-permalink: /who_we_are
+permalink: /en/who_we_are
 author: foss
 image: assets/images/img_fitz_roy_2_DxO.jpg
 imageshadow: true
 comments: false
 categories: [ Startup ]
 tags: [ Tag1 ]
+lang: en
+lang-ref: who_we_are
 ---
 NooSync is studio of experimented professionals in product development and software engineering, collaborating closely to clients.
  
@@ -31,4 +33,4 @@ We are the creators of the ChiliPepper app, an restaurant ordering and financial
 
 <a target="_blank" href="https://peppery.app" class="btn btn-dark"> Peppery.app &rarr;</a>
 
-{% include contact.html %}
+{% include contact_link.html %}

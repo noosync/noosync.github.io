@@ -1,11 +1,13 @@
 ---
 layout: page
 title: How we work
-permalink: /how_we_work
+permalink: /pt-BR/how_we_work
 author: foss
 image: assets/images/img_via_apia_trees_1_DxO.jpg
 imageshadow: true
 comments: false
+lang: pt-BR
+lang-ref: how_we_work
 ---
 
 <h5>Agile approach</h5>
@@ -21,4 +23,4 @@ Our Senior Developers and CTO always participate in the Code Review process rega
 We use Jira and Confluence as the main project management systems, providing our clients with the possibility to track the development online in real-time 24/7 without any hidden work and payments.
 
 
-{% include contact.html %}
+{% include contact_link.html %}

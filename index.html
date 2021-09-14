@@ -1,29 +1,19 @@
 ---
 layout: default
 title: Home
+redirect_to: '/pt-BR/index.html'
 ---
 
-<!-- Site Tag  -->
-{% if page.url == '/' %}
-    <p class="sitetag">
-        Hey, we are NooSync! <br>
-        We craft tech solutions to support startups and established businesses to achieve their goals.
-    </p>
-{% endif %}
-
-<!-- Posts Index
-================================================== -->
-<div class="blog-grid-container">
-    {% for post in paginator.posts %}
-        {% include postbox.html %}
-    {% endfor %}
-</div>
-
-<!-- Pagination
-================================================== -->
-<div class="bottompagination">
-<span class="navigation" role="navigation">
-    {% include pagination.html %}
-</span>
-</div>
-
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="canonical" href="{{ site.baseurl }}{{ page.redirect_to }}"/>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="refresh" content="0;url={{ page.redirect_to }}" />
+</head>
+<body>
+    <h1>Redirecting...</h1>
+      <a href="{{ site.baseurl }}{{ page.redirect_to }}">Click here if you are not redirected.<a>
+      <script>location='{{ page.redirect_to }}'</script>
+</body>
+</html>

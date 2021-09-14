@@ -1,11 +1,13 @@
 ---
 layout: page
 title: What we do?
-permalink: /what_we_do
+permalink: /en/what_we_do
 author: foss
 image: assets/images/img_agrigento_temple_1_DxO.jpg
 imageshadow: true
 comments: false
+lang: en
+lang-ref: what_we_do
 ---
 <h5>Complex SaaS Solutions, Web and mobile development</h5>
 Creating Web and Mobile solutions is one of our core area of expertise and passion.
@@ -29,4 +31,4 @@ We help you identify the obstacles preventing your teams from delivering consist
 Our technical experts/business and process analysts, are ready to discuss the details of your project, existing pain points and possible ways for achieving the business goals that you set.
 
 <HR>
-{% include contact.html %}
+{% include contact_link.html %}

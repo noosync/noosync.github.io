@@ -1,10 +1,12 @@
 ---
 layout: page
 title:  "Where we are?"
-permalink: /where_we_are
+permalink: /pt-BR/where_we_are
 author: foss
 image: assets/images/img_etna_1_DxO.jpg
 comments: false
+lang: pt-BR
+lang-ref: where_we_are
 ---
 
 Our cloud offices are available and reachable from anywhere and anytime over the world wide web.
@@ -13,4 +15,4 @@ We have long time expertise on working remotely over the cloud, long before the 
 
 Although we primarily work in the cloud, our headquarters are in the magnificent city of Rio de Janeiro
 
-{% include contact.html %}
+{% include contact_link.html %}

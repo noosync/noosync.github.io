@@ -1,0 +1,30 @@
+---
+layout: default
+title: Home
+lang: en
+---
+
+<!-- Site Tag  -->
+<p class="sitetag">
+    Hey, we are NooSync! <br>
+    We craft tech solutions to support startups and established businesses to achieve their goals.
+</p>
+
+<!-- Posts Index
+================================================== -->
+
+<div class="blog-grid-container">
+    {% assign posts=site.posts | where:"lang", page.lang | sort: 'lang' %}
+    {% for post in posts %}
+            {% include postbox.html %}
+    {% endfor %}
+</div>
+
+<!-- Pagination
+================================================== -->
+<div class="bottompagination">
+<span class="navigation" role="navigation">
+    {% include pagination.html %}
+</span>
+</div>
+
