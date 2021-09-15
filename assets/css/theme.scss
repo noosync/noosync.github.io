@@ -827,9 +827,14 @@ h2,h3,h4,h5,h6 {
 
  .lang-selector {
     position: fixed;
-    top: 25px;
-    right: 20px;
+    top: 15px;
+    right: 25px;
     height: 80px;
     width: 150px;
     z-index: 99;
+}
+@media (max-width: 600px) {
+    .lang-selector {
+        position:absolute;
+    }
 }
