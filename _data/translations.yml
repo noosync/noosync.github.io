@@ -1,0 +1,30 @@
+contact_question:
+  en: "Would like to know more?"
+  pt-BR: "Quer saber um pouco mais?"
+contact_message_1:
+  en: "Send us a "
+  pt-BR: "Envie-nos uma "
+contact_message_2:
+  en: "message"
+  pt-BR: "mensagem"
+contact_message_3:
+  en: "We will be glad to schedule a meeting with you."
+  pt-BR: "Teremos um grande prazer de agendar uma reunião consigo."
+menu_home:
+  en: "Home"
+  pt-BR: "Home"
+menu_who_we_are:
+  en: "Who we are?"
+  pt-BR: "Quem somos?"
+menu_what_we_do:
+  en: "What we do?"
+  pt-BR: "O que fazemos?"    
+menu_where_we_are:
+  en: "Where we are?"
+  pt-BR: "Onde estamos?"
+menu_how_we_work:
+  en: "How we work"
+  pt-BR: "Como trabalhamos?"
+menu_contact:
+  en: "Contact us"
+  pt-BR: "Entre em contato"

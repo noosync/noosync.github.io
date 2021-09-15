@@ -1,6 +1,6 @@
 ---
 layout: page
-title: How we work
+title: Como trabalhamos?
 permalink: /pt-BR/how_we_work
 author: foss
 image: assets/images/img_via_apia_trees_1_DxO.jpg

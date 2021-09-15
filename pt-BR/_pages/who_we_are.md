@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Who we are
+title: Quem somos?
 permalink: /pt-BR/who_we_are
 author: foss
 image: assets/images/img_fitz_roy_2_DxO.jpg

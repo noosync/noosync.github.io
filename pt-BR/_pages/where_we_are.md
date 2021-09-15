@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Where we are?"
+title:  Onde estamos?
 permalink: /pt-BR/where_we_are
 author: foss
 image: assets/images/img_etna_1_DxO.jpg
