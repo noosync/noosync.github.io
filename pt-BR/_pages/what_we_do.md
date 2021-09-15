@@ -10,25 +10,24 @@ lang: pt-BR
 lang-ref: what_we_do
 ---
 <h5>Complex SaaS Solutions, Web and mobile development</h5>
-Creating Web and Mobile solutions is one of our core area of expertise and passion.
-We are specialized in creating functional and elegant software that fits for purpose.
+Desenvolver soluções SaaS, Web e Mobile é uma de nossas principais áreas de expertise. Somos especializados na criação de software funcional e elegante que se adapta ao seu propósito.  
 
-We use the best practices and tools to create distributed multi-tenant, secure, and robust complex applications and products for different domains and industries. ERP, CRM, Accounting Software, Finance, Retail, Education, etc.  
-Simple and intuitive or extensive and complex - we can build it with you.  
+Usamos as melhores práticas e ferramentas para criar aplicações “multi-tenant”, seguras, complexas e robustas, para diferentes domínios e setores. ERP, CRM, software de contabilidade, finanças, varejo, educação, etc.  
 
 <h5>Tech Arm for Startups and SME’s</h5>
 
-<h6>MVP and Product Development</h6>
-We help you designing the right product with the correct strategy and the appropriate technology.
+<h6>Desenvolvimento de MVP’s e Produtos</h6>
+Nós o ajudamos a projetar o produto certo com a estratégia correta e a tecnologia apropriada.
 
-<h6>Your ICT back office.  </h6>
-Every company needs regular IT services in order to operate properly. However, SME’s often do not have their own IT department, whether to keep the focus in its core business, whether to make savings, NooSync can support you.  
+<h6>Seu back office de TIC  </h6>
+Toda empresa precisa de serviços regulares de TI para operar adequadamente. No entanto, muitas PMEs não têm seu próprio departamento , seja para manter o foco em seu negócio principal, seja para fazer economias, a NooSync pode apoiá-lo.  
 
 <h5>Agile services: Team Mentoring & Agile Coaching</h5>
-We help you identify the obstacles preventing your teams from delivering consistent customer value and support teams to adapt and improve, their Agile working processes. 
+Ajudamos na identificação de  obstáculos das equipes na  entrega consistente de valor ao cliente,  e suporte a times para adaptar e melhorar seus processos de trabalho Ágil.  
 
-<h5>Consulting</h5>
-Our technical experts/business and process analysts, are ready to discuss the details of your project, existing pain points and possible ways for achieving the business goals that you set.
+
+<h5>Consultoria</h5>
+Nossos especialistas técnicos / analistas de negócios e processos estão prontos para discutir os detalhes do seu projeto, os pontos fracos existentes e as possíveis maneiras de atingir os objetivos de negócios que você definiu.  
 
 <HR>
 {% include contact_link.html %}

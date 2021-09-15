@@ -9,10 +9,11 @@ lang: pt-BR
 lang-ref: where_we_are
 ---
 
-Our cloud offices are available and reachable from anywhere and anytime over the world wide web.
+Nossos escritórios na nuvem estão disponíveis e acessíveis de qualquer lugar e a qualquer hora pela internet.  
 
-We have long time expertise on working remotely over the cloud, long before the pandemic, we strongly believe in that way of working, which gives us the chance to collaborate and exchange experiences with a much wider audience, and we are able to do that without loosing quality.
+Temos experiência de longa data com trabalho remoto na nuvem, muito antes da pandemia. Acreditamos fortemente neste modelo de trabalho, que nos permite colaborar e trocar experiências com um público muito mais amplo, e podemos fazer isso sem perder qualidade.  
 
-Although we primarily work in the cloud, our headquarters are in the magnificent city of Rio de Janeiro
+Embora trabalhemos principalmente na nuvem, nossa sede fica na maravilhosa cidade do Rio de Janeiro
+
 
 {% include contact_link.html %}

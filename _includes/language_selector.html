@@ -8,10 +8,17 @@
             <img src="{{ site.baseurl }}/{{ site.languages['pt-BR'].icon }}" class="mt-3 ml-2 emoji" />
         </a>
     {% else %}
-        {% assign posts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
-        {% for post in posts %}        
-            <a href="{{ site.base-url }}{{ post.url }}">
-                <img src="{{ site.baseurl }}/{{ site.languages[post.lang].icon }}" class="mt-3 ml-2 emoji" />
+        {% assign psts=site.posts | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+        {% for pst in psts %}        
+            <a href="{{ site.base-url }}{{ pst.url }}">
+                <img src="{{ site.baseurl }}/{{ site.languages[pst.lang].icon }}" class="mt-3 ml-2 emoji" />
+            </a>
+        {% endfor %}
+        
+        {% assign pgs=site.pages | where:"lang-ref", page.lang-ref | sort: 'lang' %}
+        {% for pg in pgs %}        
+            <a href="{{ site.base-url }}{{ pg.url }}">
+                <img src="{{ site.baseurl }}/{{ site.languages[pg.lang].icon }}" class="mt-3 ml-2 emoji" />
             </a>
         {% endfor %}
     {% endif %}

@@ -11,25 +11,25 @@ tags: [ Tag1 ]
 lang: pt-BR
 lang-ref: who_we_are
 ---
-NooSync is studio of experimented professionals in product development and software engineering, collaborating closely to clients.
- 
-We do hold strong expertise in:
-SaaS (Software as a Service), ALM (Aplication lifecycle management) and SDLC (Software development lifecycle). Local or distributed Team setup, mentoring, coaching, recruitment. Lean and Agile project, product and software development.
+NooSync é um estúdio de profissionais experientes em desenvolvimento de produtos e engenharia de software, colaborando de perto com os clientes.
 
-Our mindset is to help our clients to grow their business to the next level. We want not only to understand the application and its code, but we mainly want to understand the business itself and how you can use our skills to reach the next level.
+Temos grande experiência em: SaaS (Software as a Service), ALM (gerenciamento do ciclo de vida de aplicativos) e SDLC (ciclo de vida de desenvolvimento de software). Organização, orientação, treinamento e recrutamento de equipes locais ou distribuídas. Desenvolvimento de projeto, produto e software Lean e Agile.
 
-We take pride in our software development expertise. We handle infrastructure administration and ensure service reliability.
+Nossa mentalidade é ajudar nossos clientes a levar seus negócios ao próximo nível. Queremos não apenas entender o aplicativo e seu código, mas principalmente entender o próprio negócio e como você pode usar nossas habilidades para atingir o próximo nível.
+
+Temos orgulho de nossa experiência em desenvolvimento de software. Lidamos com a administração da infraestrutura e garantimos a confiabilidade do serviço.
 
 <h5>From good to great</h5>
-We are always in the search for improvements, in technology and processes, by taking the best, changing, adapting to what fits best. We never stop at just "good enough", but always strive for “great” — and then some more.
+Estamos sempre em busca de melhorias, em tecnologia e processos, levando o melhor, mudando, adaptando ao que melhor se adapta. Nunca paramos em apenas “bom o suficiente”, mas sempre nos esforçamos para “ótimo” - e um pouco mais.
 
-<h5>Lean Mindset, Agile, Excelence</h5>
-Improve to bring more value to our clients is one of our key work principles. Inception, Build-Measure-Learn approach, pair programming, TDD, and other processes and approaches are all aimed at building better products, building them efficiently and spending optimal amount of resources.  
+<h5>Mentalidade lean, Ágil e Excelência</h5>
+Melhorar para agregar mais valor aos nossos clientes é um dos nossos principais princípios de trabalho. Abordagem Iniciação, Construir-Medir-Aprender, programação em pares, TDD e outros processos e abordagens visam construir produtos melhores, construí-los com eficiência e gastar a quantidade ideal de recursos.
 
-Perhaps the largest part of NooSync vision is building great products for both ourselves and our clients. We build them using lean and agile practices.
+Talvez a maior parte da visão do NooSync seja a construção de ótimos produtos para nós e para nossos clientes. Nós os construímos usando práticas enxutas e ágeis.
 
-<h5>The creators of ChiliPepper app</h5>
-We are the creators of the ChiliPepper app, an restaurant ordering and financial management software that is available as an SaaS solution in the cloud for restautants all over the world. Check it out!  
+<h5>Os criadores do app ChiliPepper</h5>
+Somos os criadores do aplicativo ChiliPepper, um software de pedidos de restaurantes e gerenciamento financeiro que está disponível como uma solução SaaS na nuvem para restaurantes em todo o mundo. Confira!
+
 
 <a target="_blank" href="https://peppery.app" class="btn btn-dark"> Peppery.app &rarr;</a>
 
