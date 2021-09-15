@@ -14,4 +14,3 @@ lang-ref: startup-tech-arm
 
 {% include contact_link.html %}
 
-{% include translation_footer.html %}

@@ -792,7 +792,7 @@ h2,h3,h4,h5,h6 {
     }
     .nav-logo {
         right: 25px;
-        bottom: 25px;
+        bottom: 35px;
         display: flex;
         left: unset;
         top: unset;
@@ -818,4 +818,18 @@ h2,h3,h4,h5,h6 {
             text-decoration:none;
         }
     }
+}
+
+.emoji {
+    width: 30px;
+    height: 30px;
+  }
+
+ .lang-selector {
+    position: fixed;
+    top: 25px;
+    right: 20px;
+    height: 80px;
+    width: 150px;
+    z-index: 99;
 }

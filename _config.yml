@@ -16,10 +16,10 @@ email: hello@noosync.com
 languages:
   en:
     label: English
-    icon: 🇺🇸
+    icon: assets/images/flag-en.png
   pt-BR:
     label: Português
-    icon: 🇧🇷
+    icon: assets/images/flag-pt-BR.png
 
 # Authors
 authors:
