@@ -31,6 +31,6 @@ Perhaps the largest part of NooSync vision is building great products for both o
 <h5>The creators of ChiliPepper app</h5>
 We are the creators of the ChiliPepper app, an restaurant ordering and financial management software that is available as an SaaS solution in the cloud for restautants all over the world. Check it out!  
 
-<a target="_blank" href="https://peppery.app" class="btn btn-dark"> Peppery.app &rarr;</a>
+<a target="_blank" href="https://peppery.app" class="btn btn-primary mt-3"> Peppery.app <i class="fas fa-pepper-hot"></i></a>
 
 {% include contact_link.html %}

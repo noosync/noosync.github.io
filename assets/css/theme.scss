@@ -6,7 +6,7 @@ $brown: #B59F62;
 $teal: #f04318;
 $heading: red;// #cf271b;
 $black: #111;
-$primary: $teal;
+$primary: $heading;
 $dark:    $black;
 $back: #ffffff;
 $sidebarBack: #fafafa;
@@ -699,4 +699,8 @@ body {
     .lang-selector {
         position:absolute;
     }
+}
+
+.btn {
+    border-radius: 5px;
 }
