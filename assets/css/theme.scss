@@ -290,43 +290,6 @@ img, img:hover {
     }
 }
 .firstpage {
-    /*
-    .blog-grid-item:nth-child(1) {
-        grid-column-start: 1;
-        grid-column-end: 3;
-        grid-row-start: 1;
-        grid-row-end: 3;
-        flex-direction: column;  
-        align-items: flex-start;
-        font-size: 1em;
-        padding:0;
-        .card-title {
-            font-size:28px;
-        }
-        .img-thumb {
-            object-fit:cover;
-            height:400px;
-            width:100%;
-            object-position:top;
-        }
-    }
-
-    .blog-grid-item:nth-child(2), .blog-grid-item:nth-child(3) {
-        .card-text {
-            display:none;
-        }
-        .img-thumb {
-            object-fit:cover;
-            height:160px;
-            width:100%;
-            object-position:top;
-        }
-        .card-title {
-            font-size:18px;
-            line-height:1.5;
-        }      
-    }
-    */
 }
 
 //pagination
@@ -665,14 +628,12 @@ body {
 }
 
 .navbar-logo img {
-    max-width:58px;
+    max-width:50px;
 }
 
 .nav-logo {
     position: fixed;
-    //top: 80px;
-    left: 12px;
-    //bottom: 25px;
+    left: 15px;
     top: 80px;
     z-index: 1026;
 }
@@ -682,7 +643,7 @@ body {
         position:relative;
     }
     .nav-logo {
-        right: 25px;
+        right: 28px;
         bottom: 35px;
         display: flex;
         left: unset;
@@ -728,7 +689,7 @@ body {
 
  .lang-selector {
     position: fixed;
-    top: 15px;
+    top: 10px;
     right: 100px;
     height: 80px;
     width: 100px;
