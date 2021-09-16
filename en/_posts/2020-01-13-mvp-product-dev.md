@@ -9,6 +9,9 @@ comments: false
 lang: en
 lang-ref: mvp-product-dev
 ---
+We help you designing the right product with the correct strategy and the appropriate technology.  
+Creating SaaS solutions, Web and Mobile solutions is one of our core area of expertise and passion. We are specialized in creating functional and elegant software that fits for purpose.
+
 ### MVP Development
 Verify your business idea with a quality test version of your digital product. We help you designing the right product with the correct strategy and the appropriate technology.  
 MVP development is our line of service designed to produce a first functional version of your idea that is ready for start collecting feedback with users, in a minimum time frame.   

@@ -1,6 +1,6 @@
 contact_question:
-  en: "Would like to know more?"
-  pt-BR: "Quer saber um pouco mais?"
+  en: "Would like to know more? Want to start a project with us?"
+  pt-BR: "Quer saber mais? Quer iniciar um projeto conosco?"
 contact_message_1:
   en: "Send us a "
   pt-BR: "Envie-nos uma "
@@ -8,8 +8,8 @@ contact_message_2:
   en: "message"
   pt-BR: "mensagem"
 contact_message_3:
-  en: "We will be glad to schedule a meeting with you."
-  pt-BR: "Teremos um grande prazer de agendar uma reunião consigo."
+  en: "We will be glad to know you and to discover how we can help you."
+  pt-BR: "Teremos um grande prazer de te conhecer e descobrir como podemos ajudá-lo."
 menu_home:
   en: "Home"
   pt-BR: "Home"

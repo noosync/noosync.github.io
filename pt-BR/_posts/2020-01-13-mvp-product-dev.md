@@ -9,6 +9,9 @@ comments: false
 lang: pt-BR
 lang-ref: mvp-product-dev
 ---
+Nós o ajudamos a projetar o produto certo com a estratégia correta e a tecnologia apropriada.  
+Desenvolver soluções SaaS, Web e Mobile é uma de nossas principais áreas de expertise. Somos especializados na criação de software funcional e elegante que se adapta a suas necessidades (fit for purpose).  
+
 ### Desenvolvimento MVP
 
 Verifique a sua ideia de negócios com uma primeira versão de alta qualidade do seu produto digital. Nós o ajudamos a projetar o produto certo com a estratégia correta e a tecnologia apropriada. 
