@@ -28,3 +28,6 @@ menu_how_we_work:
 menu_contact:
   en: "Contact us"
   pt-BR: "Entre em contato"
+contact_send:
+  en: "Send"
+  pt-BR: "Enviar"
