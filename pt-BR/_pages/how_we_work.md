@@ -10,17 +10,17 @@ lang: pt-BR
 lang-ref: how_we_work
 ---
 
-<h5>Agile approach</h5>
-We follow the best practices & processes available for the kind of projects we do. We embrace agile methodologies like Scrum and Kanban,  which allow us to succeed in achieving our clients goals
+<h5>Abordagem Ágil</h5>
+Seguimos as melhores práticas e processos existentes no mercado para o perfil de nossos projetos. Adotamos metodologias ágeis como Scrum e Kanban, o que nos permite atingir os objetivos de nossos clientes.
 
-<h5>Technical partners</h5>
-We concentrate on the specific business needs of our clients and support them throughout the whole way: from an idea to its implementation.
+<h5>Parceiros de Tecnologia</h5>
+Nos concentramos nas necessidades específicas do negócio de nossos clientes e os apoiamos em todo o sua tragetória: da ideia até sua implementação.
 
-<h5>Secure and quality</h5>
-Our Senior Developers and CTO always participate in the Code Review process regardless of the project size to ensure code quality.
+<h5>Segurança e qualidade</h5>
+Nossos desenvolvedores sêniores e CTO sempre participam do processo de revisão do código, independentemente do tamanho do projeto para garantir a qualidade do código.
 
-<h5>Full transparency</h5>
-We use Jira and Confluence as the main project management systems, providing our clients with the possibility to track the development online in real-time 24/7 without any hidden work and payments.
+<h5>Total transparência</h5>
+Utilizamos ferramentas para gerenciar nosso trabalho que proporcionam rastreabilidade e transparência a nossos clientes, além da possibilidade de acompanhar o desenvolvimento online em tempo real 24 horas por dia, 7 dias por semana, sem qualquer trabalho oculto.
 
 
 {% include contact_link.html %}
