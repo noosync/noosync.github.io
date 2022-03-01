@@ -13,7 +13,8 @@ lang-ref: what_we_do
 Creating Web and Mobile solutions is one of our core area of expertise and passion.
 We are specialized in creating functional and elegant software that fits for purpose.
 
-We use the best practices and tools to create distributed multi-tenant, secure, and robust complex applications and products for different domains and industries. ERP, CRM, Accounting Software, Finance, Retail, Education, etc.  
+We use the best practices and tools to create distributed multi-tenant, secure, complex and robust software solutions for different domains and industries.
+Our team has expertise in the Transport, ERP, CRM, Accounting Software, Finance, Retail and Education domains.  
 Simple and intuitive or extensive and complex - we can build it with you.  
 
 <h5>Tech Arm for Startups and SME’s</h5>

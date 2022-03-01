@@ -11,12 +11,12 @@ lang-ref: what_we_do
 ---
 <h5>Soluções SaaS complexas, desenvolvimento Web e Mobile </h5>
 Desenvolver soluções SaaS, Web e Mobile é uma de nossas principais áreas de expertise. Somos especializados na criação de software funcional e elegante que se adapta a suas necessidades (fit for purpose).  
-Usamos as melhores práticas e ferramentas para criar aplicações “multi-tenant”, seguras, complexas e robustas, para diferentes domínios e setores. ERP, CRM, software de contabilidade, finanças, varejo, educação, etc.  
+Usamos as melhores práticas e ferramentas para criar aplicações “multi-tenant”, seguras, complexas e robustas, para diferentes domínios e setores. Nossa equipe tem experiências nos setores de Transporte, ERP, CRM, software de contabilidade, finanças, varejo, educação, etc.  
 
 <h5>Parceiro tecnológico de Startups and PME’s</h5>
 
 <h6>Desenvolvimento de MVP’s e Produtos</h6>
-Nós o ajudamos a projetar o produto certo com a estratégia correta e a tecnologia apropriada.
+Nós lhe ajudamos a projetar o produto certo com a estratégia correta e a tecnologia apropriada.
 
 <h6>Seu back office de TIC  </h6>
 Toda empresa precisa de serviços regulares de TI para operar adequadamente. No entanto, muitas PMEs não têm seu próprio departamento, seja em função de aspectos econômicos, seja para manter o foco em seu negócio principal, a NooSync pode apoiá-lo.  

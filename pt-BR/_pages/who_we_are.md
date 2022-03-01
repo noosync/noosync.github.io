@@ -11,7 +11,7 @@ tags: [ Tag1 ]
 lang: pt-BR
 lang-ref: who_we_are
 ---
-NooSync é um estúdio de profissionais experientes em desenvolvimento de produtos e engenharia de software, colaborando próximo de seus clientes.
+NooSync é um estúdio de profissionais experientes em desenvolvimento de produtos e em engenharia de software, colaborando próximo de seus clientes.
 
 Temos grande experiência em: SaaS (Software as a Service), ALM (gerenciamento do ciclo de vida de aplicativos) e SDLC (ciclo de vida de desenvolvimento de software). Atuamos no desenvolvimento de produtos e software utilizando princípios Lean e Ágeis, assim como na organização, orientação, treinamento e recrutamento de equipes locais ou distribuídas.
 

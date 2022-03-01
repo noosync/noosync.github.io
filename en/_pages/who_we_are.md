@@ -24,12 +24,13 @@ We take pride in our software development expertise. We handle infrastructure ad
 We are always in the search for improvements, in technology and processes, by taking the best, changing, adapting to what fits best. We never stop at just "good enough", but always strive for “great” — and then some more.
 
 <h5>Lean Mindset, Agile, Excelence</h5>
-Improve to bring more value to our clients is one of our key work principles. Inception, Build-Measure-Learn approach, pair programming, TDD, and other processes and approaches are all aimed at building better products, building them efficiently and spending optimal amount of resources.  
+Improve to bring more value to our clients is one of our key work principles. 
+Inception, Build-Measure-Learn approach, pair programming, TDD, and other processes and approaches are all aimed at building better products, building them efficiently and spending optimal amount of resources.  
 
-Perhaps the largest part of NooSync vision is building great products for both ourselves and our clients. We build them using lean and agile practices.
+Part of NooSync’s vision is building great products for both ourselves and our clients. We build them using lean and agile practices.
 
 <h5>The creators of ChiliPepper app</h5>
-We are the creators of the ChiliPepper app, an restaurant ordering and financial management software that is available as an SaaS solution in the cloud for restautants all over the world. Check it out!  
+We are the creators of the ChiliPepper app, a restaurant ordering and financial management SaaS product, currently in the stage of getting traction with MVP running on local customers in Rio de Janeiro.  
 
 <a target="_blank" href="https://peppery.app" class="btn btn-primary mt-3"> Peppery.app <i class="fas fa-pepper-hot"></i></a>
 
