@@ -5,7 +5,7 @@ description: "Hey, we are NooSync! We craft tech solutions to support startups a
 logo: 'assets/images/noosync_logo_v2.png'
 favicon: 'assets/images/noosync_logo_favicon_v1.png'
 #baseurl: /noosync
-#google_analytics: 'UA-xxxxxxxx-1'
+google_analytics: 'UA-222187123-1'
 #disqus: ''
 #mailchimp-list: 
 include: ["_pages"]
